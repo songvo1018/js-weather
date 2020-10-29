@@ -1,0 +1,21 @@
+body {
+  background: rgb(238,174,202);
+  background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.controls {
+  text-align: center;
+  padding: 35px;
+  background-color: rgba(252, 166, 135, 0.644);
+  margin-top: 50px;
+}
+.result {
+
+  text-align: center;
+  padding: 15px 20px;
+  background-color: gainsboro;
+}
